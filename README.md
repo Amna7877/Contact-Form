@@ -31,13 +31,15 @@ A fully responsive **Contact / Registration Form** with built-in validation for 
 
 ## 📸 Preview
 
-![Contact Form Preview](https://github.com/Amna7877/Contact-Form-Task-2/blob/main/preview.png?raw=true)
+<img width="1920" height="889" alt="Form" src="https://github.com/user-attachments/assets/1e0f0f7e-ee5b-4fa9-92d8-7b7966aac95f" />
 
 
 ## 🚀 Live Demo
 
-🔗 Live : [https://app.netlify.com/projects/contacts-forms/overview](#)  
-📂 GitHub Repository: [https://github.com/Amna7877/Contact-Form](#) 
+🔗 Live Demo: [https://app.netlify.com/projects/contacts-forms](#) 
+🔗 LinkdIn: [https://www.linkedin.com/feed/update/urn:li:activity:7386005028123226112/](#)
+📂 GitHub Repository: [https://github.com/Amna7877/Contact-Form](#)
+
 
 
 ## 🧠 What I Learned
